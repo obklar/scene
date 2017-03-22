@@ -1,28 +1,7 @@
 #######################################################################
-# wshadow.zst by White Shadow (c) 2005
+# Theme base on wshadow.zst by White Shadow (c) 2005
 #
-# The idea behind this theme was to cut the text output to the absolute
-# minimum, paying more attention to the pure facts.
-#
-# Unlike many other themes, the colors I used are splitted into 
-# different settings, depending on _where_ the color is used, not 
-# _which_ color is used.
-#
-# I put a short description on the colors i used, describing 
-# the purposes of the announces. You will see the system behind
-# this when you activate the theme for some time.
-#
-# All announces from pzs-ng are themed in here, no need to disable 
-# anything in your script. Also some scripts like tur-request,
-# tur-trial, tur-space, ktmf, tur-autonuke etc are themed in here.
-#
-# You will notice some custom announces at the bottom, which come from
-# some of my scripts I found useful. Contact me if you have questions
-# about the theme and/or the scripts for the announces.
-# If i want to be found you can meet me in #pzs-ng @ EFnet
-#
-# Big THX to all the developers of pzs-ng, without you my work would 
-# be useless.
+# Almost everything was rewrite
 #######################################################################
  
  

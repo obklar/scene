@@ -293,5 +293,5 @@ announce.RESCANEND                		= "%c9{%b{%section}} %c4{%b{RESCAN}} %c3{%b{
 announce.FORCEDEL                		= "%c9{%b{%section}} %c2{%b{FORCEDEL}} %b{%file} in %b{%relname} by %b{%u_name}"
 announce.RULES	                		= "%c7{%b{RULES}} %c1{%b{UPDATE}} Section: %b{%rlsec} by %b{%user}"
 #announce.NEWPRETIME = "[%b{NEW}][%section] %b{%relname} by %b{%u_name} of %g_name :: released %preage ago :: %predate %pretime."
-announce.NEWPRETIME               		= "%c1{%b{NEW RACE}} in %c9{%b{%section}} --> %b{%relname} released %b{%c2{%preage}} ago"
-announce.OLDPRETIME               		= "%c1{%b{NEW RACE}} in %c9{%b{%section}} --> %b{%relname} released %b{%c2{%preage}} ago"
+announce.NEWPRETIME               		= "%c1{%b{NEW RACE}} in %c9{%b{%section}} --> %b{%relname} %b{%c5{PRE} %c2{%preage}} ago"
+announce.OLDPRETIME               		= "%c1{%b{NEW RACE}} in %c9{%b{%section}} --> %b{%relname} %b{%c5{PRE} %c2{%preage}} ago"
